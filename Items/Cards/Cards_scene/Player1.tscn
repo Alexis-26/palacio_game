@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bnn38npi3rnjh"]
+
+[node name="Player1" type="Node2D"]
+
+[node name="Cartas_abajo" type="Node2D" parent="."]
+
+[node name="Cartas_arriba" type="Node2D" parent="."]
+
+[node name="Mano" type="Node2D" parent="."]
